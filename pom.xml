@@ -10,6 +10,14 @@
         <version>1.13</version>
     </parent>
 
+
+
+       
+<properties>
+<project.scm.id>github-scala-sandbox</project.scm.id>
+
+</properties
+
    <distributionManagement>
        <repository>
            <id>github-scala-sandbox</id>
@@ -23,8 +31,6 @@
            <url>https://github.com/garage-education/scala-sandbox</url>
            <tag>HEAD</tag>
        </scm>
-
-       
 
 
 </project>

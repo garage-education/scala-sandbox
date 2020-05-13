@@ -14,4 +14,5 @@ class MainTest extends FunSuite {
     val inputSentence = null
     assert(Main.wordCount(inputSentence) == 0)
   }
+  
 }
