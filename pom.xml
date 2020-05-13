@@ -10,9 +10,6 @@
         <version>1.13</version>
     </parent>
 
-
-
-       
 <properties>
 <project.scm.id>github-scala-sandbox</project.scm.id>
 </properties>
