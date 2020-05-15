@@ -25,6 +25,4 @@ object Main extends App {
    * @return true if the input string is null or empty otherwise returns false.
    */
   def isEmpty(str: String) = str == null || str.trim.isEmpty
-
-  println(wordCount("Moustafa Alaa"))
 }
